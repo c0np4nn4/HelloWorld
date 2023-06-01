@@ -4,3 +4,6 @@
 2. 본인 계정의 forked repository 를 git clone 하여 로컬로 가져옵니다.
 3. 적절히 수정한 후 PR 을 날립니다.
 4. Merge 됐음을 확인합니다.
+
+
+# 안녕하세요~
